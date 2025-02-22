@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo fasdfds >> 1.log'
 
                 
+                
             }
         }
     }
