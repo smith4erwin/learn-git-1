@@ -5,6 +5,7 @@ pipeline {
             steps {
                 sh 'python --version'
                 sh 'echo fasdfds >> 1.log'
+
                 
             }
         }
